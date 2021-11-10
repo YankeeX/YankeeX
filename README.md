@@ -1,8 +1,6 @@
 ### Bonjour 👋
 
 
-Here are some ideas to get you started:
-
 - 🇫🇷 Je suis Français
 - 🌱 Je connais le python / HTMLC - CSS et Csharp
 - 👯 Je travail avec HarganFire
