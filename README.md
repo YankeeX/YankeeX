@@ -2,9 +2,9 @@
 
 
 - 🇫🇷 Je suis Français
-- 🌱 Je connais le python / HTMLC - CSS et Csharp
+- 🌱 Développeur Python / HTML / CSS en apprentissage du JS
 - 👯 Je travail avec HarganFire
-- 🔧 Développeur de ServerTools
+- 🔧 Développeur de Maky (bot certifié)
 - ✏️ Dessine et modélise à mes heures perdues
 
 
